@@ -10,6 +10,13 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the Netflix
 - `netflix_titles.csv` — The raw dataset used for analysis (uploaded in this repo)
 ---
 
+## 🌐 Run on Google Colab
+
+Click below to view or run the notebook directly in Google Colab:  
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1-kvjVum-PS8aum3nvLq73993c6x3fCJu?usp=sharing)
+
+---
+
 ## 📌 Dataset Description
 
 - **Source**: [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
