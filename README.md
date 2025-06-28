@@ -7,7 +7,7 @@ This project performs an in-depth Exploratory Data Analysis (EDA) on the Netflix
 ## 📁 Files Included
 
 - `Netflix_EDA.ipynb` — Main Colab notebook with all analysis and visualizations
-
+- `netflix_titles.csv` — The raw dataset used for analysis (uploaded in this repo)
 ---
 
 ## 📌 Dataset Description
